@@ -1,27 +1,34 @@
 # TodoList
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
+#### By **Peter Njenga**
 
-## Development server
+## Description
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+A to do list app that allows users add a to do item as well as delete it.
 
-## Code scaffolding
+### Author's Information
+[Peter Njenga](https://github.com/han254)
+https://twitter.com/Hanselpeter4
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Setup/Installation Requirements
+* Open Terminal {Ctrl+Alt+T}
+* clone ```https://github.com/han254/Todo-list```.
+* Enter into the folder (cd Todo-list).
+* open your IDE (code . or atom .) 
 
-## Build
+## Technologies Used
+* AngularCLI
+* HTML
+* CSS
+* Markdown
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Support and contact details
 
-## Running unit tests
+* You can contact me through my email[peternjenga1706@gmail.com]
+* Github [https://github.com/han254]
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+##### Link to my github-pages
+()
+### License
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Copyright (c) 2022 [click here to view license](LICENSE)
